@@ -1,0 +1,14 @@
+footer {
+    color: rgb(255, 255, 255);
+    background-color: #132d65;
+} 
+
+.boton-form {
+    background-color: #0000ff;
+    color: white;
+
+    &:hover {
+        background-color: #00eaff;
+
+    }
+}

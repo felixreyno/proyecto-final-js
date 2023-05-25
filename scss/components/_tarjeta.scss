@@ -1,0 +1,7 @@
+.productos:hover {
+@extend%tarjeta-productos
+}
+%tarjeta-productos{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}

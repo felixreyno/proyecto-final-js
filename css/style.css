@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.tipografia-productos {
+  font-family: "Montserrat", sans-serif;
+  padding-inline: 5vh;
+}
+
+.tipografia-portada {
+  text-shadow: 4px 4px 4px gray;
+  font-family: sans-serif;
+}
+
+.dale-estilo {
+  font-family: "Fasthand";
+}
+
+.carouselportada {
+  height: 30vh;
+}
+
+footer {
+  color: rgb(255, 255, 255);
+  background-color: #132d65;
+}
+
+.boton-form {
+  background-color: #0000ff;
+  color: white;
+}
+.boton-form:hover {
+  background-color: #00eaff;
+}
+
+.navbar-nav .nav-item .link {
+  color: #070777;
+}
+
+.animaciones {
+  color: blue;
+}
+.animaciones:hover {
+  transform: scale(1.2);
+  transition-duration: 1s;
+}
+
+.link {
+  color: #070777;
+}
+
+.productos:hover {
+  transform: scale(1.1);
+  transition-duration: 1s;
+}
+
+/*# sourceMappingURL=style.css.map */
